@@ -4,9 +4,9 @@ Wallet script for QBCore Framework
 
 
 ## Add this line to your Shared/items.lua in QBCore -->
-
+```
 ['wallet']	= {['name'] = 'wallet',	['label'] = 'Wallet',	['weight'] = 0, 	['type'] = 'item', 	['image'] = 'wallet.png',	['unique'] = true, ['useable'] = true,	['shouldClose'] = true, ['combinable'] = nil, 	['description'] = 'Your Wallet '}
-
+```
 
 ## Add this in qb-inventory/html/js/app.js inside FormatItemInfo after idcard in qb-inventory -->
 ```
