@@ -1,5 +1,5 @@
-# wallet
-Wallet script for QBCore Framework
+# Wallet
+Wallet script for QBCore Framework made by Manav
 ## This is just a wallet script for qbcore which can be used to see cash and bank balance of the player .
 
 
